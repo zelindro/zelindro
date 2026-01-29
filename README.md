@@ -1,4 +1,4 @@
-## Hello people entering my github page, nice to see you here! 
+## Hello 👋!
 
   I'm Arthur, a graduated computer engineering student from FURG. I'm currently working on a research project developing an app as a frontend developer. Despite having my greatest current knowledge with frontend, i aim to work as a full-stack develop in my career, and because of that, i'm currently learning about backend to further improve my skills on the job. Here's my email and Linkedin profile in case you want to contact me:
 
